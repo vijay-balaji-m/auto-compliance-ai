@@ -1,0 +1,10 @@
+The safety lifecycle in ISO 26262 defines the stages of developing a safety-critical system.
+
+Main phases:
+- Concept phase
+- System development
+- Hardware development
+- Software development
+- Production and operation
+
+Each phase ensures safety requirements are properly implemented and validated.

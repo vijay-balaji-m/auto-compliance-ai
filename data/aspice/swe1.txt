@@ -1,0 +1,9 @@
+SWE.1 (Software Requirements Analysis) focuses on defining software requirements.
+
+Key activities:
+- Analyze system requirements
+- Define software requirements
+- Ensure traceability
+
+Example:
+If the system requires braking within 2 seconds, SWE.1 defines how software supports this.

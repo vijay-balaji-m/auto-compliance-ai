@@ -1,0 +1,14 @@
+The V-Model is a development model used in ASPICE.
+
+Left side:
+- Requirements
+- Design
+
+Right side:
+- Testing
+- Validation
+
+Each development phase has a corresponding testing phase.
+
+Example:
+Software design is validated by integration testing.

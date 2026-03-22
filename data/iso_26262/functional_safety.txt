@@ -1,0 +1,6 @@
+Functional safety ensures that a system operates correctly in response to inputs, including failures.
+
+In ISO 26262, functional safety focuses on preventing hazardous events caused by system malfunctions.
+
+Example:
+If a sensor fails, the system should detect it and move to a safe state.

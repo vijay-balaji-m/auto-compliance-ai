@@ -1,0 +1,10 @@
+HARA (Hazard Analysis and Risk Assessment) is a process in ISO 26262 used to identify hazards and assess risks.
+
+Steps:
+1. Identify hazards
+2. Determine operational situations
+3. Classify severity, exposure, controllability
+4. Assign ASIL
+
+Example:
+Unintended acceleration is a hazard that may lead to high severity and requires ASIL C or D.

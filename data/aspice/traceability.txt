@@ -1,0 +1,9 @@
+Traceability ensures that all requirements are linked to implementation and testing.
+
+In ASPICE:
+- Requirements → Design → Code → Test
+
+This helps ensure that no requirement is missed.
+
+Example:
+A safety requirement must be linked to test cases verifying it.

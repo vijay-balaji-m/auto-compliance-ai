@@ -1,0 +1,9 @@
+SWE.2 (Software Architectural Design) defines the software structure.
+
+Key activities:
+- Define components
+- Define interfaces
+- Allocate requirements to components
+
+Example:
+Braking logic may be split into sensor module, decision module, and actuator module.

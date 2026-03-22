@@ -1,0 +1,15 @@
+ASIL (Automotive Safety Integrity Level) is a risk classification system defined in ISO 26262.
+
+It is used to determine the safety requirements of automotive systems based on:
+- Severity (S): Impact of failure
+- Exposure (E): Frequency of occurrence
+- Controllability (C): Ability of driver to avoid harm
+
+ASIL levels:
+- ASIL A (lowest risk)
+- ASIL B
+- ASIL C
+- ASIL D (highest risk)
+
+Example:
+A braking system typically requires ASIL D due to high severity and low controllability.

@@ -1,0 +1,9 @@
+ASPICE (Automotive SPICE) is a process assessment model used to evaluate software development processes in automotive systems.
+
+It defines process capability levels from 0 to 5:
+- Level 0: Incomplete
+- Level 1: Performed
+- Level 2: Managed
+- Level 3: Established
+- Level 4: Predictable
+- Level 5: Optimizing
